@@ -1,0 +1,324 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:qa!
+|2,0,1600767557,,"qa!"
+:wq
+|2,0,1597141404,,"wq"
+:q
+|2,0,1594721479,,"q"
+:q!
+|2,0,1594286295,,"q!"
+:w
+|2,0,1594286192,,"w"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""-	CHAR	0
+	た
+|3,1,36,0,1,0,1594721191,"た"
+
+# ファイルマーク:
+'0  1  0  ~/workspace/git-study/index.html
+|4,48,1,0,1601371244,"~/workspace/git-study/index.html"
+'1  1  0  ~/workspace/git-study/index.html
+|4,49,1,0,1601371244,"~/workspace/git-study/index.html"
+'2  1  2  ~/workspace/git-study/README.md
+|4,50,1,2,1600768032,"~/workspace/git-study/README.md"
+'3  2  0  ~/workspace/git-study/.git/MERGE_MSG
+|4,51,2,0,1600767557,"~/workspace/git-study/.git/MERGE_MSG"
+'4  1  815  ~/workspace/git-study/index.html
+|4,52,1,815,1600316938,"~/workspace/git-study/index.html"
+'5  25  0  /tmp/crontab.8kyiV7/crontab
+|4,53,25,0,1597741066,"/tmp/crontab.8kyiV7/crontab"
+'6  23  1  /tmp/crontab.9dxXL7/crontab
+|4,54,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+'7  24  0  /tmp/crontab.kPrwH3/crontab
+|4,55,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+'8  165  0  /tmp/tutorU6Szhm
+|4,56,165,0,1594721490,"/tmp/tutorU6Szhm"
+'9  6  0  /tmp/tutor2ZjlQe
+|4,57,6,0,1594286988,"/tmp/tutor2ZjlQe"
+
+# ジャンプリスト (新しいものが先):
+-'  1  0  ~/workspace/git-study/index.html
+|4,39,1,0,1601371244,"~/workspace/git-study/index.html"
+-'  1  0  ~/workspace/git-study/index.html
+|4,39,1,0,1601371244,"~/workspace/git-study/index.html"
+-'  1  2  ~/workspace/git-study/README.md
+|4,39,1,2,1600768032,"~/workspace/git-study/README.md"
+-'  2  0  ~/workspace/git-study/.git/MERGE_MSG
+|4,39,2,0,1600767557,"~/workspace/git-study/.git/MERGE_MSG"
+-'  1  0  ~/workspace/git-study/.git/MERGE_MSG
+|4,39,1,0,1600767481,"~/workspace/git-study/.git/MERGE_MSG"
+-'  1  815  ~/workspace/git-study/index.html
+|4,39,1,815,1600316938,"~/workspace/git-study/index.html"
+-'  1  815  ~/workspace/git-study/index.html
+|4,39,1,815,1600316938,"~/workspace/git-study/index.html"
+-'  25  0  /tmp/crontab.8kyiV7/crontab
+|4,39,25,0,1597741066,"/tmp/crontab.8kyiV7/crontab"
+-'  25  0  /tmp/crontab.8kyiV7/crontab
+|4,39,25,0,1597741066,"/tmp/crontab.8kyiV7/crontab"
+-'  25  0  /tmp/crontab.8kyiV7/crontab
+|4,39,25,0,1597741066,"/tmp/crontab.8kyiV7/crontab"
+-'  25  0  /tmp/crontab.8kyiV7/crontab
+|4,39,25,0,1597741066,"/tmp/crontab.8kyiV7/crontab"
+-'  25  0  /tmp/crontab.8kyiV7/crontab
+|4,39,25,0,1597741066,"/tmp/crontab.8kyiV7/crontab"
+-'  25  0  /tmp/crontab.8kyiV7/crontab
+|4,39,25,0,1597741066,"/tmp/crontab.8kyiV7/crontab"
+-'  25  0  /tmp/crontab.8kyiV7/crontab
+|4,39,25,0,1597741066,"/tmp/crontab.8kyiV7/crontab"
+-'  25  0  /tmp/crontab.8kyiV7/crontab
+|4,39,25,0,1597741066,"/tmp/crontab.8kyiV7/crontab"
+-'  25  0  /tmp/crontab.8kyiV7/crontab
+|4,39,25,0,1597741066,"/tmp/crontab.8kyiV7/crontab"
+-'  1  0  /tmp/crontab.8kyiV7/crontab
+|4,39,1,0,1597741011,"/tmp/crontab.8kyiV7/crontab"
+-'  1  0  /tmp/crontab.8kyiV7/crontab
+|4,39,1,0,1597741011,"/tmp/crontab.8kyiV7/crontab"
+-'  1  0  /tmp/crontab.8kyiV7/crontab
+|4,39,1,0,1597741011,"/tmp/crontab.8kyiV7/crontab"
+-'  1  0  /tmp/crontab.8kyiV7/crontab
+|4,39,1,0,1597741011,"/tmp/crontab.8kyiV7/crontab"
+-'  1  0  /tmp/crontab.8kyiV7/crontab
+|4,39,1,0,1597741011,"/tmp/crontab.8kyiV7/crontab"
+-'  1  0  /tmp/crontab.8kyiV7/crontab
+|4,39,1,0,1597741011,"/tmp/crontab.8kyiV7/crontab"
+-'  1  0  /tmp/crontab.8kyiV7/crontab
+|4,39,1,0,1597741011,"/tmp/crontab.8kyiV7/crontab"
+-'  1  0  /tmp/crontab.8kyiV7/crontab
+|4,39,1,0,1597741011,"/tmp/crontab.8kyiV7/crontab"
+-'  1  0  /tmp/crontab.8kyiV7/crontab
+|4,39,1,0,1597741011,"/tmp/crontab.8kyiV7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  23  1  /tmp/crontab.9dxXL7/crontab
+|4,39,23,1,1597141404,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  1  0  /tmp/crontab.9dxXL7/crontab
+|4,39,1,0,1597141369,"/tmp/crontab.9dxXL7/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  24  0  /tmp/crontab.kPrwH3/crontab
+|4,39,24,0,1597141345,"/tmp/crontab.kPrwH3/crontab"
+-'  1  0  /tmp/crontab.kPrwH3/crontab
+|4,39,1,0,1597141271,"/tmp/crontab.kPrwH3/crontab"
+-'  1  0  /tmp/crontab.kPrwH3/crontab
+|4,39,1,0,1597141271,"/tmp/crontab.kPrwH3/crontab"
+-'  1  0  /tmp/crontab.kPrwH3/crontab
+|4,39,1,0,1597141271,"/tmp/crontab.kPrwH3/crontab"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/workspace/git-study/.git/MERGE_MSG
+	*	1600767534	0
+	"	2	0
+
+> ~/workspace/git-study/index.html
+	*	1600316931	0
+	"	1	815
+	^	1	816
+	.	1	815
+	+	1	815
+
+> ~/workspace/git-study/README.md
+	*	1600160115	0
+	"	1	2
+
+> /tmp/crontab.8kyiV7/crontab
+	*	1597741053	0
+	"	25	0
+	^	24	56
+	.	24	55
+	+	24	55
+
+> /tmp/crontab.9dxXL7/crontab
+	*	1597141400	0
+	"	23	1
+	^	23	2
+	.	23	1
+	+	24	0
+	+	23	1
+
+> /tmp/crontab.kPrwH3/crontab
+	*	1597141329	0
+	"	24	0
+	^	24	0
+	.	23	58
+	+	23	58
+
+> /tmp/tutorU6Szhm
+	*	1594721485	0
+	"	165	0
+	^	133	59
+	.	133	56
+	+	83	59
+	+	108	11
+	+	131	56
+	+	133	56
+
+> /tmp/tutor2ZjlQe
+	*	1594286986	0
+	"	6	0
+
+> ~/workspace/vim-study/test.txt
+	*	1594286278	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/.profile
+	*	1594286010	0
+	"	2	0
